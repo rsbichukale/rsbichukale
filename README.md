@@ -23,7 +23,7 @@ Software engineer and entrepreneur from **Pune, Maharashtra**, building at the i
 > *"Writing code that works in the field, not just in the IDE."*
 
 - 🌾 Building **Kisan Mitra** — offline-first farm management app for Indian smallholder farmers (11 languages, free forever)
-- 📊 Building a **BizAnalyst-style mobile suite** — TallyPrime-integrated business analytics for SMBs
+- 📊 Building a **Tally On Mobile Business Suite** — TallyPrime-integrated business analytics for SMBs
 - 🤖 Exploring **AI-powered financial analysis** — TallyPrime → Python → Claude API pipelines
 - 💼 Running **Sangamnath Krushi Kendra** — agricultural supply business in Maharashtra
 
@@ -45,7 +45,7 @@ Offline-first Android app for Indian smallholder farmers. SQLite + AES-256 encry
 </td>
 <td width="33%" valign="top">
 
-### 📊 BizAnalyst Suite
+### 📊 Tally On Mobile Business Suite
 **TallyPrime Mobile Ecosystem**
 
 Electron connector + React Native Owner App synced via Supabase. Real-time P&L, geo tracking for salespersons, Razorpay integration.
@@ -115,7 +115,7 @@ Automated pipeline: TallyPrime HTTP server → Python → Anthropic Claude API. 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:rbichukale06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
